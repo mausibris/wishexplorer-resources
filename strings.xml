@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="empty"></string>
+
+    <!-- General -->
+    <string name="yes">ja</string>
+    <string name="n_items">%d Einträge</string>
+    <string name="no_items">keine Einträge</string>
+    <string name="n_selected">%d ausgewählt</string>
+    <string name="n_selected_alt">  %d  </string>
+
+    <!-- default titles-->
+    <string name="unnamed">unbenannt</string>
+    <string name="default_list_title_title">Listentitel</string>
+    <string name="default_wish_title_title">Titel</string>
+
+</resources>
